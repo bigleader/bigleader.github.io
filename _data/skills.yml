@@ -1,0 +1,28 @@
+-   id: R
+    descr: R 기초
+    xp: 6
+-   id: R Crawling
+    descr: R Crawling
+    color: teal
+    xp: 7
+-   id: c+
+    descr: c+   
+    xp: 3
+-   id: Python
+    descr: Python    
+    xp: 8
+-   id: Mobile
+    descr: 안드로이드 어플 제작    
+    xp: 5
+-   id: Webpage
+    descr: Webpage 제작 
+    xp: 4
+-   id: R
+    descr: 시각화 
+    xp: 3
+-   id: R
+    descr: Machine Learning
+    xp: 2
+-   id: R
+    descr: R 통계
+    xp: 4
