@@ -7,6 +7,8 @@ height:  1
 date:   2016-07-02 10:30:00 +0900
 categories: jekyll update
 ---
+
+
 <a href = "http://bigleader.net/file/빅데이터 융합 미래 리더 육성_빅리더4기-과정_신청서_v9.hwp"> <b>신청서 다운로드</b> </a>  / 
 <a href = "http://bigleader.net/file/빅데이터융합미래리더육성_빅리더 4기 과정 모집 안내문_V9_최종.pdf"> <b>안내문 다운로드</b> </a> <br>
 
