@@ -6,11 +6,12 @@
 .block{    
     overflow: hidden; 
     min-height: $height-unit + $block-padding * 2; 
-    
+    background-size: cover;
     .block-body{
         margin: $block-padding;
         min-height: $height-unit; 
         position: relative;
         height: 100%;
+
     }
 }
